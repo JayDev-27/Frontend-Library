@@ -318,6 +318,14 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 </a>
 <!-- CONTRIBUTORS:END -->
 
+## 🤝 Collaborators
+
+<!-- COLLABORATORS:START -->
+<a href="https://github.com/satiricalguru/Frontend-Library">
+  <img src="https://frontendlibrary.vercel.app/api/collaborators/" alt="Frontend Library collaborators and invited members (updates automatically)">
+</a>
+<!-- COLLABORATORS:END -->
+
 ## ⚖️ Credits & licensing
 
 Link catalogs store **links and short factual metadata** (names, colors, typefaces, categories). The local DESIGN.md analyses retain their upstream MIT licence and attribution. Captures are reference evidence and grant no reuse licence for underlying models, shaders, fonts or source code. All linked designs, fonts, code and media belong to their creators: [Lusion](https://lusion.co/), [Refero](https://styles.refero.design/), [Motion](https://motion.dev/), [Transitions.dev](https://transitions.dev/), [Godly](https://godly.design/) and [Envato](https://elements.envato.com/), [Codrops](https://tympanus.net/codrops/tag/webgl/), [Google Fonts](https://fonts.google.com/), [three.js](https://threejs.org/), [Lucide](https://lucide.dev/), [Tabler Icons](https://tabler.io/icons), [VoltAgent](https://github.com/VoltAgent/awesome-design-md) and [Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#stock-videos). Follow each source's terms before using anything you find through this library. The repository code, components, and original snippets are licensed under the [MIT License](LICENSE).
