@@ -1,7 +1,7 @@
 {
   "source": "Hand-picked standout WebGL / creative-coding pieces, each linked to its own repository and live page",
-  "collected": "2026-11-13",
-  "count": 1,
+  "collected": "2026-11-16",
+  "count": 3,
   "items": [
     {
       "id": "crimson-loong",
@@ -13,10 +13,30 @@
       "author": "ChetasLua",
       "attribution": "Crimson Loong by ChetasLua (github.com/ChetasLua/crimson-loong)",
       "description": "A 90-second dragon film that plays live in the browser from one HTML file: a red loong on a karst spire, a white loong from a storm cloud, a sky duel, a lake plunge and a pearl chase. Pure three.js r180, every mesh, texture, shader and note generated in code, zero assets, zero network.",
-      "tags": ["three.js", "webgl2", "procedural", "zero-assets", "single-file", "film", "shaders", "sdf", "ray-marched-clouds", "planar-reflection", "web-audio", "procedural-audio", "dragon"],
+      "tags": [
+        "three.js",
+        "webgl2",
+        "procedural",
+        "zero-assets",
+        "single-file",
+        "film",
+        "shaders",
+        "sdf",
+        "ray-marched-clouds",
+        "planar-reflection",
+        "web-audio",
+        "procedural-audio",
+        "dragon"
+      ],
       "category": "Real-time film",
       "theme": "dark",
-      "stack": ["three.js r180 (inlined, no add-ons)", "WebGL 2", "GLSL", "Web Audio API + Web Worker synthesis", "Python build script"],
+      "stack": [
+        "three.js r180 (inlined, no add-ons)",
+        "WebGL 2",
+        "GLSL",
+        "Web Audio API + Web Worker synthesis",
+        "Python build script"
+      ],
       "repository": "https://github.com/ChetasLua/crimson-loong",
       "commit": "264b9d1c63f298a206f53d18ddc1e49d0b10c334",
       "license": "No licence declared in the repository (all rights reserved by default). three.js is MIT (vendor/LICENSE). Study and link only; do not copy its source.",
@@ -25,18 +45,218 @@
       "preview": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-01-valley.jpg",
       "previewSource": "repository-file",
       "gallery": [
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-01-valley.jpg", "label": "Valley — red loong coiled on the spire" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-02-lake-dive.jpg", "label": "Lake dive" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-03-face.jpg", "label": "Face" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-04-fire.jpg", "label": "Fire roar" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-05-storm-duel.jpg", "label": "Storm duel" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-06-splash.jpg", "label": "Splash" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-07-beam.jpg", "label": "Beam clash" },
-        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-08-dusk.jpg", "label": "Dusk" }
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-01-valley.jpg",
+          "label": "Valley — red loong coiled on the spire"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-02-lake-dive.jpg",
+          "label": "Lake dive"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-03-face.jpg",
+          "label": "Face"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-04-fire.jpg",
+          "label": "Fire roar"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-05-storm-duel.jpg",
+          "label": "Storm duel"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-06-splash.jpg",
+          "label": "Splash"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-07-beam.jpg",
+          "label": "Beam clash"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-08-dusk.jpg",
+          "label": "Dusk"
+        }
       ],
       "guide": "inspiration/showcases/crimson-loong/README.md",
       "buildPrompt": "inspiration/showcases/crimson-loong/BUILD-PROMPT.md",
       "notes": "Stills are linked from the author's repository at the pinned commit, not copied. The live page was not captured or recorded."
+    },
+    {
+      "id": "threejs-scroll-showcases",
+      "name": "Threejs scroll showcases",
+      "url": "https://threejs-scroll-showcases.vercel.app",
+      "source": "https://github.com/satiricalguru/Threejs-scroll-showcases",
+      "collected": "2026-11-16",
+      "kind": "scroll-driven-webgl-library",
+      "author": "satiricalguru",
+      "attribution": "Threejs scroll showcases by satiricalguru (MIT)",
+      "description": "Ten cinematic, scroll-driven three.js worlds (Nature, Japanese, Cyberpunk, Gaming, Health, Space, Underwater, Mythology, Fantasy, Jaipur) with art-directed camera rails. Fully procedural, no models or images, no build step; mount(canvas, 'space', { progress }) drops one into any page.",
+      "tags": [
+        "three.js",
+        "webgl2",
+        "scroll",
+        "scroll-driven",
+        "camera-rail",
+        "procedural",
+        "zero-assets",
+        "landing-page",
+        "planar-reflection",
+        "bloom",
+        "aces",
+        "library"
+      ],
+      "category": "Scroll-driven 3D library",
+      "theme": "dark",
+      "stack": [
+        "three.js r180",
+        "WebGL 2",
+        "plain ES modules (no build)",
+        "GLSL"
+      ],
+      "repository": "https://github.com/satiricalguru/Threejs-scroll-showcases",
+      "commit": "cfcfa2d76880cf3ee392a2b8b413be06c2b231b0",
+      "license": "MIT (three.js MIT in lib/THREE-LICENSE). Reuse with attribution.",
+      "demo": "https://threejs-scroll-showcases.vercel.app",
+      "code": "https://github.com/satiricalguru/Threejs-scroll-showcases/tree/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0",
+      "preview": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/sheet.jpg",
+      "previewSource": "repository-file",
+      "gallery": [
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/nature.jpg",
+          "label": "Nature — Verdant",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/nature.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=nature"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/japanese.jpg",
+          "label": "Japanese — Yoizakura",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/japanese.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=japanese"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/cyberpunk.jpg",
+          "label": "Cyberpunk — Neon Rain",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/cyberpunk.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=cyberpunk"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/gaming.jpg",
+          "label": "Gaming — Level Up",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/gaming.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=gaming"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/health.jpg",
+          "label": "Health — Vital",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/health.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=health"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/space.jpg",
+          "label": "Space — Event Horizon",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/space.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=space"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/underwater.jpg",
+          "label": "Underwater — Abyss",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/underwater.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=underwater"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/mythology.jpg",
+          "label": "Mythology — Olympus",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/mythology.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=mythology"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/fantasy.jpg",
+          "label": "Fantasy — Arcanum",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/fantasy.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=fantasy"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/jaipur.jpg",
+          "label": "Jaipur — Gulabi Nagar",
+          "motion": "https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/jaipur.gif",
+          "demo": "https://threejs-scroll-showcases.vercel.app/showcase.html?s=jaipur"
+        }
+      ],
+      "guide": "inspiration/showcases/threejs-scroll-showcases/README.md",
+      "buildPrompt": "inspiration/showcases/threejs-scroll-showcases/BUILD-PROMPT.md",
+      "notes": "Media linked from the repository at the pinned commit."
+    },
+    {
+      "id": "abyssal-garden",
+      "name": "Abyssal Garden",
+      "url": "https://noniv.github.io/abyssal-garden/",
+      "source": "https://github.com/Noniv/abyssal-garden",
+      "collected": "2026-11-16",
+      "kind": "realtime-webgpu-world",
+      "author": "Noniv",
+      "attribution": "Abyssal Garden by Noniv (MIT)",
+      "description": "A dreamy underwater world you swim through in the browser: kelp forests, god rays and caustics, a sunken ship, a stone whale fluke and manta rays. Raw WebGPU with no engine, everything procedural, one ~97 KB HTML file.",
+      "tags": [
+        "webgpu",
+        "wgsl",
+        "no-engine",
+        "procedural",
+        "zero-assets",
+        "single-file",
+        "underwater",
+        "free-camera",
+        "caustics",
+        "god-rays",
+        "instancing",
+        "web-audio",
+        "prompt-included"
+      ],
+      "category": "Real-time world",
+      "theme": "dark",
+      "stack": [
+        "WebGPU (no engine)",
+        "WGSL",
+        "Web Audio API",
+        "esbuild-style Node build (source/)"
+      ],
+      "repository": "https://github.com/Noniv/abyssal-garden",
+      "commit": "a596354eff400d458bc2aeb9bdf5e0a9734b2bcf",
+      "license": "MIT. Reuse with attribution.",
+      "demo": "https://noniv.github.io/abyssal-garden/",
+      "code": "https://github.com/Noniv/abyssal-garden/tree/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/source",
+      "preview": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/whale-fluke.jpg",
+      "previewSource": "repository-file",
+      "gallery": [
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/whale-fluke.jpg",
+          "label": "Whale fluke and manta"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/shipwreck.jpg",
+          "label": "Shipwreck"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/kelp-forest.jpg",
+          "label": "Looking up through the kelp"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/sponge-garden.jpg",
+          "label": "Barrel sponges"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/light-rays.jpg",
+          "label": "Light rays over the kelp basin"
+        },
+        {
+          "file": "https://raw.githubusercontent.com/Noniv/abyssal-garden/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/.github/screenshots/purple-grotto.jpg",
+          "label": "Purple grotto"
+        }
+      ],
+      "guide": "inspiration/showcases/abyssal-garden/README.md",
+      "buildPrompt": "inspiration/showcases/abyssal-garden/BUILD-PROMPT.md",
+      "originalPrompt": "https://github.com/Noniv/abyssal-garden/blob/a596354eff400d458bc2aeb9bdf5e0a9734b2bcf/prompt.txt",
+      "notes": "Screenshots linked from the repository at the pinned commit. The author's original prompt.txt is reproduced in BUILD-PROMPT.md under the MIT licence."
     }
   ]
 }

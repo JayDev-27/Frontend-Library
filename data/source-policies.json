@@ -121,6 +121,18 @@
       "result": "public-git-repository (no licence declared: all rights reserved)",
       "checkedOn": "2026-11-13",
       "capture": "Facts from the README and source-file comments at commit 264b9d1c63f298a206f53d18ddc1e49d0b10c334 (read through the GitHub API, nothing executed). Stills linked from the repository, not copied. The live page (chetaslua.github.io, no robots.txt) was not captured. The build prompt is an original specification for a reimplementation, not a copy of the code."
+    },
+    {
+      "url": "https://github.com/satiricalguru/Threejs-scroll-showcases",
+      "result": "public-git-repository (MIT)",
+      "checkedOn": "2026-11-16",
+      "capture": "Facts from README and file tree at commit cfcfa2d76880cf3ee392a2b8b413be06c2b231b0 via the GitHub API; media linked, not copied; nothing executed."
+    },
+    {
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "result": "public-git-repository (MIT)",
+      "checkedOn": "2026-11-16",
+      "capture": "Facts from README, file tree and prompt.txt at commit a596354eff400d458bc2aeb9bdf5e0a9734b2bcf via the GitHub API; prompt.txt reproduced with attribution under MIT; screenshots linked, not copied; nothing executed."
     }
   ]
 }

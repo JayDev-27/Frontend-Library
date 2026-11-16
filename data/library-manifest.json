@@ -82,7 +82,7 @@
     {
       "name": "showcases",
       "path": "data/showcases.json",
-      "count": 1,
+      "count": 3,
       "evidence": "linked-metadata"
     }
   ],

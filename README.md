@@ -52,6 +52,10 @@ Complete WebGL pieces studied in depth, each with a breakdown and a **full build
 
 **[赤龍 · Crimson Loong](https://chetaslua.github.io/crimson-loong/)** by [ChetasLua](https://github.com/ChetasLua/crimson-loong): a 90-second dragon film rendered live from one HTML file. Pure three.js, and every mesh, texture, shader and note is generated in code, with zero assets. [Breakdown](inspiration/showcases/crimson-loong/README.md) · [Build prompt](inspiration/showcases/crimson-loong/BUILD-PROMPT.md) · [Watch live](https://chetaslua.github.io/crimson-loong/)
 
+**[Threejs scroll showcases](https://threejs-scroll-showcases.vercel.app)** by [satiricalguru](https://github.com/satiricalguru/Threejs-scroll-showcases): ten scroll-driven three.js worlds (Nature, Cyberpunk, Space, Jaipur and more) you mount with one call, all procedural. MIT. [Breakdown](inspiration/showcases/threejs-scroll-showcases/README.md) · [Build prompt](inspiration/showcases/threejs-scroll-showcases/BUILD-PROMPT.md)
+
+**[Abyssal Garden](https://noniv.github.io/abyssal-garden/)** by [Noniv](https://github.com/Noniv/abyssal-garden): a swimmable underwater world in raw WebGPU, no engine, one 97 KB file. MIT. [Breakdown](inspiration/showcases/abyssal-garden/README.md) · [Build prompt](inspiration/showcases/abyssal-garden/BUILD-PROMPT.md) (includes the author's original prompt)
+
 <sub>Stills © ChetasLua, linked from the author's repository at commit <code>264b9d1</code>, not copied. The repository declares no licence; the build prompt is for an original reimplementation.</sub>
 
 ## Landing-page references for people and AI agents
@@ -138,7 +142,7 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 
 | Collection | Entries | Folder | Collected from |
 |:--|--:|:--|:--|
-| ✦ Showcases with build prompts | 1 | [inspiration/showcases](inspiration/showcases/) | [ChetasLua/crimson-loong](https://github.com/ChetasLua/crimson-loong) |
+| ✦ Showcases with build prompts | 3 | [inspiration/showcases](inspiration/showcases/) | [ChetasLua/crimson-loong](https://github.com/ChetasLua/crimson-loong) |
 | 🔤 Open-source font families | 1,961 | [fonts/google-fonts](fonts/google-fonts/) | [fonts.google.com](https://fonts.google.com/) |
 | ✳️ Open icons (Lucide + Tabler) | 7,285 | [icons/open-icons](icons/open-icons/) | [lucide.dev](https://lucide.dev/) · [tabler.io/icons](https://tabler.io/icons) |
 | 🧊 Three.js examples | 623 | [animations/threejs-examples](animations/threejs-examples/) | [threejs.org/examples](https://threejs.org/examples/) |

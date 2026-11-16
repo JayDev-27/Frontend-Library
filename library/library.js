@@ -266,7 +266,7 @@ function openDrawer(item) {
     const strip = node('div', 'gallery');
     item.gallery.forEach((g) => {
       const u = safeUrl(g.file); if (!u) return;
-      const a = link('', u, 'gallery-item');
+      const a = link('', safeUrl(g.demo) || u, 'gallery-item');
       const im = node('img'); im.src = u; im.alt = g.label || item.name; im.loading = 'lazy'; im.referrerPolicy = 'no-referrer';
       a.append(im); a.title = g.label || '';
       strip.append(a);
