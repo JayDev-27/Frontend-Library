@@ -19,7 +19,7 @@ python3 <skill-dir>/scripts/query.py "Linear" --type design-md --json
 python3 <skill-dir>/scripts/query.py "shader" --type codrops --limit 6 --json
 ```
 
-Locate the checkout in the working directory or its parents. For another project, pass `--library /path/to/Frontend-Library` or set `FRONTEND_LIBRARY_ROOT`. If absent, clone `https://github.com/satiricalguru/Frontend-Library.git` to a suitable local reference directory, then pass that path. Do not silently replace an existing checkout. Use `--help` to discover filters. Read individual records and files returned by the query instead of loading entire catalogs.
+Locate the checkout in the working directory or its parents. For another project, pass `--library /path/to/Frontend-Library` or set `FRONTEND_LIBRARY_ROOT`. If absent, clone `https://github.com/JayDev-27/Frontend-Library.git` to a suitable local reference directory, then pass that path. Do not silently replace an existing checkout. Use `--help` to discover filters. Read individual records and files returned by the query instead of loading entire catalogs.
 
 If the read-only Frontend Library MCP connector is configured, use `search_references`, then `get_reference` with `include_image:true` to inspect real checkpoints, or `read_design` for a bundled analysis. Its setup is documented in the checkout's `docs/agents.md`; do not modify client settings without user authorization.
 

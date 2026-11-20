@@ -10,7 +10,7 @@
  */
 'use strict';
 
-const REPO = 'satiricalguru/Frontend-Library';
+const REPO = 'JayDev-27/Frontend-Library';
 const SIZE = 64;
 const GAP = 8;
 const COLUMNS = 12;

@@ -6,7 +6,7 @@
   'use strict';
   const buttons = [...document.querySelectorAll('[data-stars]')];
   if (!buttons.length) return;
-  const API = 'https://api.github.com/repos/satiricalguru/Frontend-Library';
+  const API = 'https://api.github.com/repos/JayDev-27/Frontend-Library';
   const KEY = 'fl-stars-v1';
   const TTL = 30 * 60 * 1000;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;

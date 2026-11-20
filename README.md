@@ -11,7 +11,7 @@
 <p>
   <a href="https://frontendlibrary.vercel.app"><img src="https://img.shields.io/badge/OPEN%20THE%20WEBSITE-%E2%86%97-eef0f7?style=for-the-badge&labelColor=07080c" alt="Open the website"></a>
   <a href="https://frontendlibrary.vercel.app/library/"><img src="https://img.shields.io/badge/BROWSE%20THE%20LIBRARY-14%2C518-4d65ff?style=for-the-badge&labelColor=07080c" alt="Browse the library: 14,518 references"></a>
-  <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&label=STARS&color=4d65ff&labelColor=07080c" alt="GitHub stars"></a>
+  <a href="https://github.com/JayDev-27/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/JayDev-27/Frontend-Library?style=for-the-badge&label=STARS&color=4d65ff&labelColor=07080c" alt="GitHub stars"></a>
 </p>
 
 <p>
@@ -52,7 +52,7 @@ Complete WebGL pieces studied in depth, each with a breakdown and a **full build
 
 **[赤龍 · Crimson Loong](https://chetaslua.github.io/crimson-loong/)** by [ChetasLua](https://github.com/ChetasLua/crimson-loong): a 90-second dragon film rendered live from one HTML file. Pure three.js, and every mesh, texture, shader and note is generated in code, with zero assets. [Breakdown](inspiration/showcases/crimson-loong/README.md) · [Build prompt](inspiration/showcases/crimson-loong/BUILD-PROMPT.md) · [Watch live](https://chetaslua.github.io/crimson-loong/)
 
-**[Threejs scroll showcases](https://threejs-scroll-showcases.vercel.app)** by [satiricalguru](https://github.com/satiricalguru/Threejs-scroll-showcases): ten scroll-driven three.js worlds (Nature, Cyberpunk, Space, Jaipur and more) you mount with one call, all procedural. MIT. [Breakdown](inspiration/showcases/threejs-scroll-showcases/README.md) · [Build prompt](inspiration/showcases/threejs-scroll-showcases/BUILD-PROMPT.md)
+**[Threejs scroll showcases](https://threejs-scroll-showcases.vercel.app)** by [satiricalguru](https://github.com/JayDev-27/Threejs-scroll-showcases): ten scroll-driven three.js worlds (Nature, Cyberpunk, Space, Jaipur and more) you mount with one call, all procedural. MIT. [Breakdown](inspiration/showcases/threejs-scroll-showcases/README.md) · [Build prompt](inspiration/showcases/threejs-scroll-showcases/BUILD-PROMPT.md)
 
 **[Abyssal Garden](https://noniv.github.io/abyssal-garden/)** by [Noniv](https://github.com/Noniv/abyssal-garden): a swimmable underwater world in raw WebGPU, no engine, one 97 KB file. MIT. [Breakdown](inspiration/showcases/abyssal-garden/README.md) · [Build prompt](inspiration/showcases/abyssal-garden/BUILD-PROMPT.md) (includes the author's original prompt)
 
@@ -182,7 +182,7 @@ Original, copy-paste animations. Each one is a single `index.html` you can open 
 <summary><b>Use a snippet in 30 seconds</b></summary>
 
 ```bash
-git clone https://github.com/satiricalguru/Frontend-Library.git
+git clone https://github.com/JayDev-27/Frontend-Library.git
 open Frontend-Library/animations/snippets/sliding-tabs/index.html   # macOS; use xdg-open on Linux
 ```
 
@@ -312,12 +312,12 @@ Visit our [contributing guide](CONTRIBUTING.md) to learn how to contribute, and 
 
 ## 💬 Community
 
-Have questions, comments, or feedback? Start a [GitHub Discussion](https://github.com/satiricalguru/Frontend-Library/discussions) or open an [issue](https://github.com/satiricalguru/Frontend-Library/issues/new/choose).
+Have questions, comments, or feedback? Start a [GitHub Discussion](https://github.com/JayDev-27/Frontend-Library/discussions) or open an [issue](https://github.com/JayDev-27/Frontend-Library/issues/new/choose).
 
 ## 👥 Contributors
 
 <!-- CONTRIBUTORS:START -->
-<a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
+<a href="https://github.com/JayDev-27/Frontend-Library/graphs/contributors">
   <img src="https://frontendlibrary.vercel.app/api/contributors/" alt="Frontend Library contributors (updates automatically)">
 </a>
 <!-- CONTRIBUTORS:END -->
@@ -325,7 +325,7 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 ## 🤝 Collaborators
 
 <!-- COLLABORATORS:START -->
-<a href="https://github.com/satiricalguru/Frontend-Library">
+<a href="https://github.com/JayDev-27/Frontend-Library">
   <img src="https://frontendlibrary.vercel.app/api/collaborators/" alt="Frontend Library collaborators and invited members (updates automatically)">
 </a>
 <!-- COLLABORATORS:END -->

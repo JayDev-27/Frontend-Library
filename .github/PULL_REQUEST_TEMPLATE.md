@@ -25,4 +25,4 @@
 - [ ] No build artifacts (`dist/`, `node_modules/`), OS clutter (`.DS_Store`), or secrets included
 - [ ] Original work or permissively licensed asset with attribution/license info included
 - [ ] Reference packages identify source, date, viewport, evidence type, status and unverified states
-- [ ] Reviewed [CONTRIBUTING.md](https://github.com/satiricalguru/Frontend-Library/blob/main/CONTRIBUTING.md) guidelines
+- [ ] Reviewed [CONTRIBUTING.md](https://github.com/JayDev-27/Frontend-Library/blob/main/CONTRIBUTING.md) guidelines

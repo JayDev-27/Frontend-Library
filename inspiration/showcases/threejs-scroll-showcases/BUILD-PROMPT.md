@@ -1,7 +1,7 @@
 # Build prompt: scroll-driven three.js worlds
 
 Two prompts for an AI coding agent: **A** adds a new world to
-[Threejs scroll showcases](https://github.com/satiricalguru/Threejs-scroll-showcases) (MIT), and **B** builds an
+[Threejs scroll showcases](https://github.com/JayDev-27/Threejs-scroll-showcases) (MIT), and **B** builds an
 engine like it from scratch. Background: [README.md](README.md).
 
 > [!NOTE]
@@ -15,7 +15,7 @@ engine like it from scratch. Background: [README.md](README.md).
 **Copy from here to the next horizontal rule.**
 
 You are a creative developer extending the open-source Threejs scroll showcases library. Clone
-`https://github.com/satiricalguru/Threejs-scroll-showcases`, run `python3 serve.py`, and add a new world called
+`https://github.com/JayDev-27/Threejs-scroll-showcases`, run `python3 serve.py`, and add a new world called
 **`<theme>`** (for example `desert`: wind-carved dunes, a camel caravan at sunset, an oasis, a night sky full of stars).
 
 Rules:

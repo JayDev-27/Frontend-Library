@@ -10,7 +10,7 @@
  */
 'use strict';
 
-const REPO = 'satiricalguru/Frontend-Library';
+const REPO = 'JayDev-27/Frontend-Library';
 const SIZE = 64;
 const GAP = 8;
 const COLUMNS = 12;
@@ -66,7 +66,7 @@ async function dataUri(url) {
 
 async function gather() {
   const people = new Map();
-  const owner = 'satiricalguru'.toLowerCase();
+  const owner = 'JayDev-27'.toLowerCase();
 
   try {
     const collabs = (await gh(`/repos/${REPO}/collaborators?per_page=100`)) || [];

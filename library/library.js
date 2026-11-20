@@ -55,7 +55,7 @@ function safeUrl(value) {
   if (typeof value !== 'string' || !value || value.startsWith('//')) return null;
   try { const u = new URL(value, BASE); return ['http:', 'https:'].includes(u.protocol) ? u.href : null; } catch { return null; }
 }
-const REPO_BLOB = 'https://github.com/satiricalguru/Frontend-Library/blob/main/';
+const REPO_BLOB = 'https://github.com/JayDev-27/Frontend-Library/blob/main/';
 function link(text, value, cls = 'pill') {
   const a = node('a', cls, text);
   // repo Markdown renders on GitHub; served raw by the static host it would show as plain text

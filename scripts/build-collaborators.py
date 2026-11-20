@@ -24,7 +24,7 @@ from xml.sax.saxutils import escape
 ROOT = Path(__file__).resolve().parent.parent
 OUT_SVG = ROOT / ".github/assets/generated/collaborators.svg"
 README_PATH = ROOT / "README.md"
-REPO = os.environ.get("GITHUB_REPOSITORY", "satiricalguru/Frontend-Library")
+REPO = os.environ.get("GITHUB_REPOSITORY", "JayDev-27/Frontend-Library")
 
 LIVE_URL = "https://frontendlibrary.vercel.app/api/collaborators/"
 
@@ -113,7 +113,7 @@ def fetch_avatar_data_uri(avatar_url: str) -> str:
 def gather_members() -> list[dict]:
     """Collect all accepted collaborators and pending invitees."""
     people: dict[str, dict] = {}
-    owner = "satiricalguru".lower()
+    owner = "JayDev-27".lower()
 
     collabs = github_get_json("collaborators")
     if collabs and isinstance(collabs, list):

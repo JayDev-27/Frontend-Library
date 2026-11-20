@@ -4,9 +4,9 @@
 
 **Ten cinematic, scroll-driven three.js worlds you can drop into any website. Fully procedural, no build step.**
 
-<a href="https://threejs-scroll-showcases.vercel.app"><img src="https://raw.githubusercontent.com/satiricalguru/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/sheet.jpg" width="100%" alt="The ten worlds: Nature, Japanese, Cyberpunk, Gaming, Health, Space, Underwater, Mythology, Fantasy and Jaipur"></a>
+<a href="https://threejs-scroll-showcases.vercel.app"><img src="https://raw.githubusercontent.com/JayDev-27/Threejs-scroll-showcases/cfcfa2d76880cf3ee392a2b8b413be06c2b231b0/docs/media/sheet.jpg" width="100%" alt="The ten worlds: Nature, Japanese, Cyberpunk, Gaming, Health, Space, Underwater, Mythology, Fantasy and Jaipur"></a>
 
-<sub><a href="https://threejs-scroll-showcases.vercel.app">Open the gallery</a> · <a href="https://github.com/satiricalguru/Threejs-scroll-showcases">Repository</a> (MIT) · <a href="BUILD-PROMPT.md"><b>Build prompt for AI agents →</b></a></sub>
+<sub><a href="https://threejs-scroll-showcases.vercel.app">Open the gallery</a> · <a href="https://github.com/JayDev-27/Threejs-scroll-showcases">Repository</a> (MIT) · <a href="BUILD-PROMPT.md"><b>Build prompt for AI agents →</b></a></sub>
 
 </div>
 
@@ -15,7 +15,7 @@
 | | |
 |:--|:--|
 | **What it is** | A library of ten finished 3D worlds, each with an art-directed camera journey. Feed it scroll progress from 0 to 1; the camera flies, the light changes and the story unfolds. |
-| **Author** | [satiricalguru](https://github.com/satiricalguru) |
+| **Author** | [satiricalguru](https://github.com/JayDev-27) |
 | **Stack** | three.js r180, WebGL 2, plain ES modules (no bundler), GLSL. Page typography from Google Fonts; everything inside the scenes is local. |
 | **Assets** | None. Geometry, textures, foliage, skies and particles are procedural; about 1 MB of source. |
 | **Rendering** | HDR pipeline with bloom, light shafts, ambient occlusion, ACES grading, film grain, planar water reflections, aerial haze, drifting cloud shadows. |
@@ -76,4 +76,4 @@ python3 scripts/query-library.py "scroll" --type showcases --json
 
 ## Source and rights
 
-Discovered at <https://github.com/satiricalguru/Threejs-scroll-showcases> (commit `cfcfa2d`, 2026-11-16). Facts come from its README and file tree. **MIT licence.** Media on this page is linked from the repository, not copied.
+Discovered at <https://github.com/JayDev-27/Threejs-scroll-showcases> (commit `cfcfa2d`, 2026-11-16). Facts come from its README and file tree. **MIT licence.** Media on this page is linked from the repository, not copied.

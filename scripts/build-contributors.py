@@ -23,7 +23,7 @@ from xml.sax.saxutils import escape
 ROOT = Path(__file__).resolve().parent.parent
 OUT_SVG = ROOT / ".github/assets/generated/contributors.svg"
 README_PATH = ROOT / "README.md"
-REPO = os.environ.get("GITHUB_REPOSITORY", "satiricalguru/Frontend-Library")
+REPO = os.environ.get("GITHUB_REPOSITORY", "JayDev-27/Frontend-Library")
 
 # The README shows the live grid served by api/contributors.js on the website, so new
 # contributors appear without a commit. This script still writes OUT_SVG as an offline copy.
